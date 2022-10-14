@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>PETALSER</h1>
+<p>Hi everyone!</p>
+<p>My name is Alex and I am an entry-level front-end developer</p>

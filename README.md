@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 <h1>PETALSER</h1>
 <p>Hi everyone!</p>
-<p>My name is Alex and I am an entry-level front-end developer</p>
+<p>My name is Alex and I am afront-end developer</p>
+<p>My fav stack is React.js with SASS</p>

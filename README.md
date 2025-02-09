@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 <h1>PETALSER</h1>
 <p>Hi everyone!</p>
 <p>My name is Alex and I am a front-end developer</p>
-<p>My fav stack is React.js with SASS</p>
+<a href="https://u8views.com/github/petalser"><img src="https://u8views.com/api/v1/github/profiles/93341599/views/day-week-month-total-count.svg"></a>
